@@ -4,4 +4,4 @@ gemspec
 
 gem 'sqlite3',                          :platforms => :ruby
 gem 'activerecord-jdbcsqlite3-adapter', :platforms => :jruby
-gem 'rails', '5.1.3'
+gem 'rails', '5.1.4'
